@@ -3,8 +3,8 @@ function calcularImc() {
     var altura = parseFloat(document.getElementById("altura").value);
     var peso = parseFloat(document.getElementById("peso").value);
 
-    var imc = peso / (altura * 2);
-     resposta = "IMC: " + imc + "<br>";
+    var imc = peso / (altura * altura);
+     resposta = "IMC: " + (imc).toFixed(2) + "<br>";
 
     if (imc < 17) {
         resposta += "Muito abaixo do peso"
