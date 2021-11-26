@@ -1,0 +1,18 @@
+form{
+    font-size: 20px;
+    background-color: #e8eaed;
+    margin: 10rem auto 1rem auto;
+    width: 25rem;
+    height: 15rem;
+    padding: 2rem; 
+}
+
+.botao{
+    margin-top: 1rem;
+}
+
+.entrada2{margin-left: 7px;}
+
+.resultado{
+    margin-top: 15px;
+}

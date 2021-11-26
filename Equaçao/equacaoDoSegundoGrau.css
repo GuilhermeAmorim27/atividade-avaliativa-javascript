@@ -1,0 +1,29 @@
+form {
+    font-size: 20px;
+    padding: 1rem;
+    width: 30rem;
+    height: 15rem;
+    margin: 8rem auto 1rem auto;
+    background-color: #e8eaed;
+    border: solid #c4c8ff 1px;
+    border-radius: .5rem;
+}
+
+.titulo{
+    margin-bottom: 1rem;
+    font-size: 27px;
+}
+
+.entrada2 {
+   margin-left: -1px;
+}
+
+.botao{
+    margin-top: 1rem;
+    width: 7rem;
+}
+
+.resposta{
+    margin-top: 1rem;
+}
+
